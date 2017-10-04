@@ -1,4 +1,4 @@
-function Untitled3
+function main
 %input data
 f1 = 24;
 f2 = 2577;
